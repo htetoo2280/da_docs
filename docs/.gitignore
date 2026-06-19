@@ -4,3 +4,5 @@ build
 seeds
 .next
 pods/service-connections
+notes/personal.*.md
+notes/personal.md
